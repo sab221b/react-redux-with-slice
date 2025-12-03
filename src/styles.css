@@ -1,0 +1,46 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.m-2 {
+  margin: 1rem;
+}
+
+.save-btn {
+  width: 80px;
+  height: 30px;
+  background-color: rgb(132, 132, 203);
+  color: #fff;
+  border-radius: 15px;
+}
+
+.delete-btn {
+  width: 80px;
+  height: 30px;
+  background-color: rgb(241, 44, 9);
+  color: #fff;
+  border-radius: 15px;
+}
+
+.productname {
+  width: 200px;
+}
+
+.text-left {
+  text-align: left;
+}
+
+ul {
+  list-style-type: auto;
+}
+
+.backdrop {
+  backdrop-filter: contrast(0.8);
+  pointer-events: none;
+}

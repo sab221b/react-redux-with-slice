@@ -1,7 +1,7 @@
 {
   "name": "react-redux-demo",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple React application demonstrating state management using Redux Toolkit with createSlice API. This project showcases CRUD operations (Create, Read, Update, Delete) for managing a product inventory.",
   "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
